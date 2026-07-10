@@ -1,6 +1,10 @@
 # Dashboard Comercial - Performance de Vendas 📈
 
-*(Insira aqui a imagem do Índice do Dashboard [Captura de tela 2026-07-10 161828.png] ou da Narrativa Inteligente [Captura de tela 2026-07-10 161837.png])*
+<img src="Captura de tela 2026-07-10 161828.png" width="100%">
+<img src="Captura de tela 2026-07-10 161837.png" width="100%">
+<img src="Captura de tela 2026-07-10 161855.png" width="100%">
+<img src="Captura de tela 2026-07-10 161904.png" width="100%">
+<img src="Captura de tela 2026-07-10 161912.png" width="100%">
 
 ## Contexto e Solução de Negócio
 Os KPIs (Key Performance Indicators) da área comercial são os motores que medem o desempenho e a eficiência das atividades de vendas de qualquer corporação. 
